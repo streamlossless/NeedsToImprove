@@ -18,9 +18,3 @@ Hey there! I'm NeedsToImprove, but go by Rasheed. I'm a teen from California who
 ### Get in touch
 * Text me at [+1 (347) 470-2120](tel:13474702120)
 * Reach me on [Twitter](https://www.twitter.com/NeedsToImprove) DM's
-
-### **Now Playing** on Spotify (work in progress)
-
-<a href="https://readme-spotify-integration-git-master.needstoimprove.vercel.app/now-playing?open">
-    <img src="https://readme-spotify-integration-git-master.needstoimprove.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a>

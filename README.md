@@ -1,16 +1,26 @@
-### Hi there 👋
+# Rasheed — [@NeedsToImprove](https://www.twitter.com/NeedsToImprove)
+<a href="https://twitter.com/NeedsToImprove">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://github.com/NeedsToImprove">
+  <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br/><br/>
 
-<!--
-**NeedsToImprove/NeedsToImprove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm NeedsToImprove, but go by Rasheed. I'm a teen from California who's trying to learn new things. As of August 2020, I've begun learning Python, and I'll put my projects on my account to track my progress. 
 
-Here are some ideas to get you started:
+### **More about me**
+* My pronouns are he/him/his 
+* I’m currently in high school, planning to go into the medical field in the future
+* I love listening to indie music; I'm currently really into Tame Impala and Radiohead
+* If you came here to learn Python and whatnot, you're most likely in the wrong place
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in touch
+* Text me at [+1 (347) 470-2120](tel:13474702120)
+* Reach me on [Twitter](https://www.twitter.com/NeedsToImprove) DM's
+
+### **Now Playing** on Spotify (work in progress)
+
+<a href="https://readme-spotify-integration-git-master.needstoimprove.vercel.app/now-playing?open">
+    <img src="https://readme-spotify-integration-git-master.needstoimprove.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>

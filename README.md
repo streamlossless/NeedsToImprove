@@ -7,11 +7,11 @@
 </a>
 <br/><br/>
 
-Hey there! I'm NeedsToImprove, but go by Rasheed. I'm a teen from California who's trying to learn new things. As of August 2020, I've begun learning Python, and I'll put my projects on my account to track my progress. 
+Hey there! I'm NeedsToImprove, but I go by Rasheed. I'm a teen from California who's trying to learn new things. As of August 2020, I've begun learning Python, and I'll put my projects on my account to track my progress. 
 
 ### **More about me**
 * My pronouns are he/him/his 
-* I’m currently in high school, planning to go into the medical field in the future
+* I’m currently in high school, and I'm planning to go into the medical field in the future
 * I love listening to indie music; I'm currently really into Tame Impala and Radiohead
 * If you came here to learn Python and whatnot, you're most likely in the wrong place
 

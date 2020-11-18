@@ -12,7 +12,7 @@ Hey there! I'm NeedsToImprove, but I go by Rasheed. I'm a teen from California w
 ### **More about me**
 * My pronouns are he/him/his 
 * I’m currently in high school, and I'm planning to go into the medical field in the future
-* I love listening to indie music; I'm currently really into Tame Impala and Radiohead
+* I love listening to indie music; I'm currently really into Tame Impala, Radiohead and Sweet Trip
 * If you came here to learn Python and whatnot, you're most likely in the wrong place
 
 ### Get in touch

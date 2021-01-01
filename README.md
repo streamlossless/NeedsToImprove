@@ -17,4 +17,4 @@ Hey there! I'm NeedsToImprove, but I go by Rasheed. I'm a teen from California w
 
 ### Get in touch
 * Text me at [+1 (347) 470-2120](tel:13474702120)
-* Reach me on [Twitter](https://www.twitter.com/NeedsToImprove) DM's
+* Reach me on [Twitter](https://www.twitter.com/IveImproved) DM's

@@ -7,7 +7,7 @@
 </a>
 <br/><br/>
 
-Hey there! I'm NeedsToImprove, but I go by Rasheed. I'm a teen from California who's trying to learn new things. As of August 2020, I've begun learning Python, and I'll put my projects on my account to track my progress. 
+Hey there! I'm Rasheed. I'm a teen from California who's trying to learn new things. As of August 2020, I've begun learning Python, and I'll put my projects on my account to track my progress. 
 
 ### **More about me**
 * My pronouns are he/him/his 

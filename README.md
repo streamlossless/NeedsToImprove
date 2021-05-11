@@ -11,7 +11,7 @@ Hey there! I'm Rasheed. I'm a teen from California who's trying to learn new thi
 
 ### **More about me**
 * My pronouns are he/him/his 
-* I’m currently in high school, and I'm planning to pursue into the medical field
+* I’m currently in high school
 * I love listening to indie music; I'm currently into Tame Impala, Radiohead and Sweet Trip
 * If you came here to learn Python and whatnot, you're most likely in the wrong place
 
